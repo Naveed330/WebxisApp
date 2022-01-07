@@ -1,0 +1,7 @@
+.imge_slider{
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 90px;
+}

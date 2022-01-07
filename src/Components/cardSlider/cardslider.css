@@ -1,0 +1,6 @@
+@media screen and (max-width:767px){
+    .slide{
+        display: flex;
+        justify-content: center;
+    }
+}
